@@ -12,17 +12,7 @@ div {
   text-align: center;
 }
 
-.pb {
-  display: block;
-}
-
-.pb:hover {
-  background-color: #000;
-  border-color: #000;
-  color: #fff;
-}
-
-.pb:hover .btn {
+.btn {
   background-color: #000;
   border-color: #000;
   color: #fff;
@@ -31,4 +21,19 @@ div {
   border: 3px;
 
   padding: .4em;
+
+  display: block;
+}
+
+.btn:hover {
+  background-color: #000;
+  border-color: #000;
+  color: #fff;
+
+  border-radius: 8px;
+  border: 3px;
+
+  padding: .4em;
+
+  display: block;
 }
