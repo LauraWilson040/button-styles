@@ -66,3 +66,30 @@ div {
 .btn .btn-small:hover {
   background-color: #000;
 }
+
+.btn-subtle .btn-small {
+  background-color: #ccc;
+  color: #fff;
+}
+
+.btn-subtle .btn-small:hover {
+  background-color: #666;
+}
+
+.btn-ghost .btn-small {
+  background-color: #fff;
+  color: #000;
+}
+
+.btn-ghost .btn-small:hover {
+  background-color: #666;
+}
+
+.btn-warning .btn-small {
+  background-color: #f33;
+  color: #fff;
+}
+
+.btn-warning .btn-small:hover {
+  background-color: #933;
+}
