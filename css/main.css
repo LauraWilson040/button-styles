@@ -13,27 +13,29 @@ div {
 }
 
 .btn {
+  display: block;
+  padding: .4em .75em .3em;
   background-color: #000;
-  border-color: #000;
-  color: #fff;
-
   border-radius: 8px;
   border: 3px;
-
-  padding: .4em;
-
-  display: block;
+  color: #fff;
+  text-decoration: none;
 }
 
 .btn:hover {
   background-color: #000;
-  border-color: #000;
-  color: #fff;
+}
 
+.btn-subtle {
+  display: block;
+  padding: .4em .75em .3em;
+  background-color: #ccc;
   border-radius: 8px;
   border: 3px;
+  color: #fff;
+  text-decoration: none;
+}
 
-  padding: .4em;
-
-  display: block;
+.btn-subtle:hover {
+  background-color: #666;
 }
