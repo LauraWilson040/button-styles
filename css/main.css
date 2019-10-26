@@ -20,6 +20,7 @@ div {
   border: 3px;
   color: #fff;
   text-decoration: none;
+  font-size: 1.125rem;
 }
 
 .btn:hover {
@@ -54,17 +55,17 @@ div {
 }
 
 .btn-small {
-  padding: .4em .75em .3em;
+  font-size: .875rem;
 }
 
 .btn-small:hover {
-  padding: .4em .75em .3em;
+  font-size: .875rem;
 }
 
 .btn-big {
-  padding: .4em .75em .3em;
+  font-size: 1.5rem;
 }
 
 .btn-big:hover {
-  padding: .4em .75em .3em;
+  font-size: 1.5rem;
 }
