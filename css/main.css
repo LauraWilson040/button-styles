@@ -53,43 +53,18 @@ div {
   background-color: #933;
 }
 
-.btn .btn-small {
-  display: inline-block;
+.btn-small {
   padding: .4em .75em .3em;
-  background-color: #000;
-  border-radius: 8px;
-  border: 3px;
-  color: #fff;
-  text-decoration: none;
 }
 
-.btn .btn-small:hover {
-  background-color: #000;
+.btn-small:hover {
+  padding: .4em .75em .3em;
 }
 
-.btn-subtle .btn-small {
-  background-color: #ccc;
-  color: #fff;
+.btn-big {
+  padding: .4em .75em .3em;
 }
 
-.btn-subtle .btn-small:hover {
-  background-color: #666;
-}
-
-.btn-ghost .btn-small {
-  background-color: #fff;
-  color: #000;
-}
-
-.btn-ghost .btn-small:hover {
-  background-color: #666;
-}
-
-.btn-warning .btn-small {
-  background-color: #f33;
-  color: #fff;
-}
-
-.btn-warning .btn-small:hover {
-  background-color: #933;
+.btn-big:hover {
+  padding: .4em .75em .3em;
 }
