@@ -12,7 +12,7 @@ div {
   text-align: center;
 }
 
-.btn {
+a.btn {
   display: inline-block;
   padding: .4em .75em .3em;
   background-color: #000;
